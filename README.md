@@ -1,7 +1,6 @@
-# Gaelion 🛡️
+# Aurelion 🛡️
 
-<p>Gaelion protege o modelo de linguagem de prompts maliciosos.</p>
-<p>Paper: <a href="https://pt.overleaf.com/read/hxsdzptznhym#4bc9e7" target="_blank">Gaelion Paper</a></p>
+<p>Aurelion protege o modelo de linguagem de prompts maliciosos.</p>
 
 ## Sistema de Detecção Preventiva de Prompts Maliciosos
 
@@ -36,8 +35,8 @@ Este projeto utiliza o **uv** para gerenciamento de dependências e ambientes vi
 Clone o repositório e instale as dependências automaticamente:
 
 ```bash
-git clone https://github.com/CauBitten/Gaelion.git
-cd gaelion
+git clone https://github.com/CauBitten/Aurelion.git
+cd Aurelion
 ```
 
 ### 2. Cria o ambiente virtual e instala todas as libs (torch, transformers, etc.)
